@@ -1,0 +1,2 @@
+This will be output to q2.txt from a parent process
+This will be output to q2.txt from a child process
